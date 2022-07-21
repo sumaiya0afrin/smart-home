@@ -1,0 +1,292 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+    .wrapper {
+        margin: 0 auto;
+        padding-top: 30px;
+        width: 80%;
+        overflow: hidden;
+    }
+    .logo {
+        width: 15%;
+    }
+    .menu ul li a {
+        margin: 0px 9px;
+        font-size: 12px;
+    }
+    .size {
+        font-size: 30px;
+        line-height: .9;
+    }
+    .banner_content h2 {
+        font-size: 18px;
+    }
+    .banner_img {
+        width: 60%;
+        float: right;
+    }
+    .banner_content p {
+        margin: 14px 0;
+        font-size: 11px;
+        line-height: 17px;
+    }
+    .banner_content button {
+        padding: 7px 0;
+        width: 120px;
+        font-size: 13px;
+    }
+    .banner2_content h2 {
+        margin: 50px 0 10px;
+        font-size: 17px;
+    }
+    .banner2_content h3 {
+        font-size: 15px;
+    }
+    .banner2_content p {
+        margin: 20px 0px 0 0;
+        font-size: 11px;
+        line-height: 16px;
+    }
+    .system_img {
+        width: 60%;
+        float: left;
+    }
+    .f_single h2 {
+        margin: 20px 0 12px;
+        font-size: 18px;
+        word-spacing: 0;
+    }
+    .f_img {
+        width: 45%;
+        margin-left: 24px;
+    }
+    .f_single p {
+        margin: 0;
+        line-height: 16px;
+        text-align: center;
+        font-size: 14px;
+    }
+    .h1_text {
+        font-size: 28px;
+    }
+    .b_text {
+        padding: 40px 50px 0 50px;
+    }
+    .b_text p {
+        font-size: 14px;
+    }
+    .size2 {
+        margin-top: 0;
+        margin-bottom: 18px;
+        font-size: 17px;
+        line-height: 20px;
+    }
+    .list ul li {
+        margin-bottom: 20px;
+        margin-left: -13px;
+        font-size: 10px;
+    }
+    .list ul li {
+        margin-bottom: 6px;
+        margin-left: -18px;
+        font-size: 10px;
+    }
+    .m_text h2 span {
+        font-size: 32px;
+        letter-spacing: 4px;
+    }
+    .m_text {
+        margin-left: 103px;
+        padding: 10px 0;
+    }
+    banner_content h5 {
+        margin-left: 100px;
+        text-align: center;
+        font-size: 16px;
+    }
+    .m_text h2 {
+        font-size: 18px;
+       letter-spacing: 1px;
+       
+    }
+    .banner_content h5 {
+        margin-left: 100px;
+    }
+    .about_content {
+        padding-left: 190px;
+        width: 100%;
+    }
+    .about_content h1 {
+        font-size: 21px;
+    }
+    .about_content p {
+        margin-top: 20px;
+        margin-bottom: 23px;
+        font-size: 10px;
+    }
+    .about_content2 ul li {
+        margin-top: 9px;
+        list-style: none;
+        font-size: 11px;
+    }
+    img, svg {
+        vertical-align: middle;
+        width: 10%;
+    }
+    .h2_text {
+        font-size: 13px;
+        text-transform: uppercase;
+    }
+    .f_text ul li p {
+        font-size: 8px;
+    }
+    .f_text ul {
+        margin-bottom: 50px;
+        padding-left: 0;
+        float: left;
+       
+    }
+    .f_list ul:first-child {
+        padding-left: 3px;
+    }
+    .f_list ul li p {
+        margin: 0;
+        font-size: 8px;
+    }
+    .f_list ul {
+        padding-left: 17px;
+        padding-right: 0px;
+        float: left;
+        
+    }
+ }
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+   
+
+ }
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    
+    .size{
+        font-size: 50px;
+        line-height: .9;
+    }
+    .banner_content h2{
+        font-size: 30px;
+       
+    }
+    .banner_content p{
+        
+        font-size: 16px;
+      
+    }
+    .banner_img{
+        width: 50%;
+        float: right;
+    }
+    .banner_content button{
+        width: 127px;
+        font-size: 14px;
+        
+    }
+    .banner2_content h2 {
+        margin: 90px 0 10px;
+        font-size: 31px;
+    
+ }
+ .banner2_content h3{
+    font-size: 20px;
+   
+}
+.banner2_content p {
+    margin: 30px 0px 0 0;
+    font-size: 14px;
+    
+}
+.f_single h2 {
+    font-size: 16px;
+    
+}
+.f_img {
+    margin-left: 40px;
+}
+.f_single p {
+    font-size: 12px;
+}
+.h1_text {
+    font-size: 35px;
+    
+}
+.b_text {
+    padding: 40px 100px 0 100px;
+}
+.b_text p {
+    font-size: 14px;
+}
+.size2 {
+    margin-bottom: 30px;
+    font-size: 29px;
+    line-height: 32px;
+
+}
+.list ul li {
+    margin-left: -13px;
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+.about_content {
+    padding-left: 366px;
+    width: 100%;
+}
+.about_content h1 {
+    font-family: 'montserrat-semibold';
+    font-size: 30px;
+    
+}
+.about_content p {
+    margin-top: 20px;
+    margin-bottom: 25px;
+    font-size: 12px;
+}
+.about_content2 {
+    font-size: 12px;
+    /* width: 100%; */
+}
+.about_img {
+    width: 55%;
+    float: left;
+}
+.h2_text {
+    font-family: 'montserrat-semibold';
+    font-size: 15px;
+    text-transform: uppercase;
+}
+.f_list ul li p {
+    margin: 0;
+    font-size: 12px;
+}
+.f_text ul {
+    padding-left: 0;
+}
+.f_text ul li p {
+    font-size: 12px;
+}
+.f_list ul:first-child {
+    padding-left: 35px;
+}
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    
+}
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px){ 
+    
+
+ }
+/* Extra extra large devices (extra large desktops, 1400px and up)*/
+ @media (min-width:1400px) {
+    
+ }
